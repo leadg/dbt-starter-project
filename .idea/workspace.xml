@@ -1,0 +1,100 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="df9b27dc-876b-4c4d-b059-f0988c101b5b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/dbt-starter-project.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/analysis/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dbt_project.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/macros/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/example/my_first_dbt_model.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/example/my_second_dbt_model.sql" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/example/schema.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/snapshots/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/tests/.gitkeep" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="Eugene Rudakov &lt;eugene.rudakov@people.ai&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="27IuBSsbZSWtyPtgYGWwNMohkmY" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="TF_FMT" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="df9b27dc-876b-4c4d-b059-f0988c101b5b" name="Default Changelist" comment="" />
+      <created>1649019787091</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1649019787091</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Add new proj">
+      <created>1649020596192</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1649020596192</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Add new proj" />
+    <option name="LAST_COMMIT_MESSAGE" value="Add new proj" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="114" key="CommitChangelistDialog2" timestamp="1649020722869">
+      <screen x="0" y="23" width="1680" height="973" />
+    </state>
+    <state x="470" y="114" key="CommitChangelistDialog2/0.23.1680.973@0.23.1680.973" timestamp="1649020722869" />
+  </component>
+</project>
